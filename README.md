@@ -33,34 +33,23 @@ The view is collapsible/expandable at a factory level, as well as device level (
 
 A big news publication has revealed sensitive private information of Daikibo Industrials' – a production problem has caused their assembly lines to stop, threatening the smooth operation of supply chains relying on Daikibo’s products. The client suspects the security of their new status board may have been breached.
 
-Joining our Cyber Security team the job is to:
-
+The job is to:
 1) Determine if the alleged breach could have happened from an attacker on the Internet, directly (no access to Daikibo's VPN).
 2)Inspect a web_requests.log file (listing only data from a period when the alleged attack has to have happened): spot suspicious requests.
 
 ## Task 5
 
-After a worrisome number of internal complaints on gender inequality (in terms of pay), Daikibo Industrials wants us to help them investigate.
-
-The Forensic Tech team has built an algorithm to quantify “level of gender pay equality” for most/all job roles within the company, in all company locations. Our Forensics lead thinks it will be a great welcoming task for you to finish the job.
-
-We have processed all data on employee compensation and we've generated an excel file (Equality Table.xlsx, available in the Resources) containing 3 columns:
+An excel file containing 3 columns:
 
 Factory
 Job Role
 Equality Score (integer; ranging between -100 and +100; 0 is ideal)
 
-Here is your final task:
-
 Create a 4th column (Equality class), classifying the equality score in those 3 types:
 Fair (+-10)
 Unfair (<-10 AND >10)
 Highly Discriminative (<-20 AND >20)
-Examples:
 
-6 → Fair
--9 → Unfair
--30 → Highly Discriminative
 
 
  
